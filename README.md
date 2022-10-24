@@ -26,7 +26,7 @@ A customer can book one or more flights. Two or more customers may have the same
 ## Conceptual Design
 
 ### ENTITY RELATION DIAGRAM-
-![ER-Diagram](https://drive.google.com/file/d/17wisHfJgIr3M-XEdd-DEeYapjS1yKRbu/view?usp=sharing)
+!(https://drive.google.com/file/d/17wisHfJgIr3M-XEdd-DEeYapjS1yKRbu/view?usp=sharing)
  
 ## Logical Design 
 
