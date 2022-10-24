@@ -1,7 +1,7 @@
 import smtplib
 
 def email(recv,table):
-    sender = '[Senders Mail ID]'
+    sender = '[Senders Mail ID]'#recommended to use outlook mail id only 
     receivers = recv
     message = """
     Thank you for choosing indigo: 
