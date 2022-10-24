@@ -47,7 +47,7 @@ create table ticket(tid varchar(10),cid varchar(10),fid varchar(10),class varcha
 ### Triggers used in Tickets-
  
 •      Booking_seats-
-!(booking_seats.jpg)
+![ Booking_seats](booking_seats.jpg)
 •      Incrementing-
 (https://drive.google.com/file/d/180m1GwbL9KGij35jQ6cejgKdgw8tw9cH/view?usp=sharing)
 •      No_refreshments-
