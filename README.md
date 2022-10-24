@@ -47,11 +47,11 @@ create table ticket(tid varchar(10),cid varchar(10),fid varchar(10),class varcha
 ### Triggers used in Tickets-
  
 •      Booking_seats-
- (https://drive.google.com/file/d/17yUq4ylYYTc2YJkKLbZ7OWnejPLs_QBZ/view?usp=sharing)
+(https://drive.google.com/file/d/17yUq4ylYYTc2YJkKLbZ7OWnejPLs_QBZ/view?usp=sharing)
 •      Incrementing-
- (https://drive.google.com/file/d/180m1GwbL9KGij35jQ6cejgKdgw8tw9cH/view?usp=sharing)
+(https://drive.google.com/file/d/180m1GwbL9KGij35jQ6cejgKdgw8tw9cH/view?usp=sharing)
 •      No_refreshments-
- (https://drive.google.com/file/d/18Liy4UVQONrR8wn5KNQJy5fMojzKFCtd/view?usp=sharing)
+(https://drive.google.com/file/d/18Liy4UVQONrR8wn5KNQJy5fMojzKFCtd/view?usp=sharing)
 •      Refreshments-
- (https://drive.google.com/file/d/18Ueo3E4VMknIFcoHUd4EpIzRSuK8Oxad/view?usp=sharing)
+(https://drive.google.com/file/d/18Ueo3E4VMknIFcoHUd4EpIzRSuK8Oxad/view?usp=sharing)
 
