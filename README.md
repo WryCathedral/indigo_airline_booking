@@ -49,9 +49,9 @@ create table ticket(tid varchar(10),cid varchar(10),fid varchar(10),class varcha
 •      Booking_seats-
 ![ Booking_seats](booking_seats.jpg)
 •      Incrementing-
-(https://drive.google.com/file/d/180m1GwbL9KGij35jQ6cejgKdgw8tw9cH/view?usp=sharing)
+![Incrementing](incrementing.jpg)
 •      No_refreshments-
-(https://drive.google.com/file/d/18Liy4UVQONrR8wn5KNQJy5fMojzKFCtd/view?usp=sharing)
+![No_refreshments](no_refreshments.jpg)
 •      Refreshments-
-(https://drive.google.com/file/d/18Ueo3E4VMknIFcoHUd4EpIzRSuK8Oxad/view?usp=sharing)
+![refreshments](refreshments.jpg)
 
